@@ -1,4 +1,4 @@
-#ice-cream-app
+# ice-cream-app
 
 Dondurma Uygulamasına hoş geldiniz! Bu uygulama, kullanıcıların çeşitli dondurma tatlarını keşfetmelerine, kendi özel sos kombinasyonlarını oluşturmalarına olanak tanır. İster bir dondurma meraklısı olun ister eğlenceli bir proje arayışında olun, bu uygulama tam size göre!
 
